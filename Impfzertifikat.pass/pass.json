@@ -1,0 +1,22 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "PASS_TYPE_IDENTIFIER",
+  "serialNumber" : "123456789",
+  "teamIdentifier" : "TEAM_ID",
+  "barcode" : {
+    "message" : "BARCODE",
+    "format" : "PKBarcodeFormatQR",
+    "messageEncoding" : "utf-8"
+  },
+  "organizationName" : "Impfzertifikat",
+  "description" : "Digitales Impfzertifikat",
+  "logoText" : "Impfzertifikat",
+  "generic" : {
+    "primaryFields" : [
+      {
+        "key" : "details",
+        "value" : "Max Mustermann"
+      }
+    ]
+  }
+}
